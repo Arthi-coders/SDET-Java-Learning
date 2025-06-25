@@ -12,6 +12,7 @@ public class EmployeeDB {
 
 	public static void main(String[] args) {
 		EmployeeDB details = new EmployeeDB();
+		details.getEmployeeDetails();
 		Integer datas = details.EmployeeID;
 		System.out.println(datas);
 
