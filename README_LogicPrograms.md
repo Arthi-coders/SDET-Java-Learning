@@ -19,12 +19,12 @@ This Java program demonstrates five foundational logic-building exercises freque
 
 ## 🧑‍💻 Sample Usage in `main()`
 ```java
-LogicPrograms logic = new LogicPrograms();
-logic.checkEvenOdd(10);
-logic.isPrime(7);
-logic.getFactorial(5);
-logic.isPalindrome("madam");
-logic.swapNumbers(5, 10);
+LogicPrograms Logical =  new LogicPrograms();
+Logical.checkEvenOdd(10);
+Logical.isPrime(5);
+Logical.getFactorial(4);
+Logical.isPalindrome("Megha");
+Logical.swapNumbers(242, 243);
 ```
 
 ---
@@ -32,11 +32,12 @@ logic.swapNumbers(5, 10);
 ## ✅ Sample Output
 ```
 10 is Even Number
-7 is a Prime Number
-Factorial of 5 is: 120
-madam is a Palindrome
-Before Swap: a = 5, b = 10
-After Swap: a = 10, b = 5
+5 is a Prime number
+24 is a factorial Number
+Megha is a palidrom
+Before Swap: a = 242, b = 243
+After Swap: a = 243, b = 242
+
 ```
 
 ---
