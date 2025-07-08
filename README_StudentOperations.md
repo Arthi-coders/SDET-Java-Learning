@@ -15,15 +15,26 @@ This Java project demonstrates the use of **methods** and **arrays** to perform 
 ## 🧑‍💻 Program Features
 - Accepts an array of marks: `int[] marks = {85, 90, 72, 60};`
 - Calculates total marks using a `sum()` method
-- Prints each student's grade using `printGrade(int marks, int studentNumber)`
+- Prints each student's grade using `printReport(String StudentName, int[] marks)`
 
 ## ✅ Sample Output
 ```
-Student marks (Total): 307
-Student 1: Grade B
-Student 2: Grade A
-Student 3: Grade C
-Student 4: Grade C
+Student_Name : Megha
+Student_Marks : 100 100 100 | Total Mark of Student : 300
+Average: 100.00
+Grade of Student :A
+***************************************
+Student_Name : Vasanth
+Student_Marks : 90 80 75 | Total Mark of Student : 245
+Average: 81.67
+Grade of Student :B
+***************************************
+Student_Name : Arthi
+Student_Marks : 55 60 75 | Total Mark of Student : 190
+Average: 63.33
+Grade of Student :C
+***************************************
+
 ```
 
 ## 🚀 How to Run
