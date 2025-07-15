@@ -8,7 +8,7 @@ public class LogicPrograms {
 				System.out.print(" is Even Number");
 			}
 		}
-	}
+	}	
 	
 public void isPrime(int n) {
 	System.out.println();
